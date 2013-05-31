@@ -1,0 +1,17 @@
+[2013-05-31 05:37:49] log.ERROR: exception 'ReflectionException' with message 'Class ContentSeeder does not exist' in /home/bigdatachat/public_html/bootstrap/compiled.php:165
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(165): ReflectionClass->__construct('ContentSeeder')
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(142): Illuminate\Container\Container->build('ContentSeeder', Array)
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(442): Illuminate\Container\Container->make('ContentSeeder', Array)
+#3 /home/bigdatachat/public_html/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(51): Illuminate\Foundation\Application->make('ContentSeeder')
+#4 /home/bigdatachat/public_html/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(38): Illuminate\Database\Seeder->resolve('ContentSeeder')
+#5 /home/bigdatachat/public_html/app/database/seeds/DatabaseSeeder.php(18): Illuminate\Database\Seeder->call('ContentSeeder')
+#6 /home/bigdatachat/public_html/vendor/laravel/framework/src/Illuminate/Database/Console/SeedCommand.php(53): DatabaseSeeder->run()
+#7 /home/bigdatachat/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php(108): Illuminate\Database\Console\SeedCommand->fire()
+#8 /home/bigdatachat/public_html/vendor/symfony/console/Symfony/Component/Console/Command/Command.php(244): Illuminate\Console\Command->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 /home/bigdatachat/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php(96): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 /home/bigdatachat/public_html/vendor/symfony/console/Symfony/Component/Console/Application.php(892): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 /home/bigdatachat/public_html/vendor/symfony/console/Symfony/Component/Console/Application.php(184): Symfony\Component\Console\Application->doRunCommand(Object(Illuminate\Database\Console\SeedCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 /home/bigdatachat/public_html/vendor/symfony/console/Symfony/Component/Console/Application.php(121): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 /home/bigdatachat/public_html/artisan(59): Symfony\Component\Console\Application->run()
+#14 {main} [] []

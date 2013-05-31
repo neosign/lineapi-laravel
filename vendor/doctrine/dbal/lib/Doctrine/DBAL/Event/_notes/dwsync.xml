@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConnectionEventArgs.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SchemaAlterTableAddColumnEventArgs.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SchemaAlterTableChangeColumnEventArgs.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SchemaAlterTableEventArgs.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SchemaAlterTableRemoveColumnEventArgs.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SchemaAlterTableRenameColumnEventArgs.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SchemaColumnDefinitionEventArgs.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SchemaCreateTableColumnEventArgs.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SchemaCreateTableEventArgs.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SchemaDropTableEventArgs.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SchemaEventArgs.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SchemaIndexDefinitionEventArgs.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+</dwsync>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="BigIntType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="BlobType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="BooleanType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="ConversionException.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="DateTimeType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="DateTimeTzType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="DateType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="DecimalType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="FloatType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="GuidType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="IntegerType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="JsonArrayType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="ObjectType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SimpleArrayType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SmallIntType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="StringType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="TextType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="TimeType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="Type.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="VarDateTimeType.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+</dwsync>

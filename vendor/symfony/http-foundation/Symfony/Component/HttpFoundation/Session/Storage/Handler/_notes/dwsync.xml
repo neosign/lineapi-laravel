@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="MemcacheSessionHandler.php" server="10.1.17.188/public_html/" local="130126140000000000" remote="130126140000000000" />
+<file name="MemcachedSessionHandler.php" server="10.1.17.188/public_html/" local="130126140000000000" remote="130126140000000000" />
+<file name="MongoDbSessionHandler.php" server="10.1.17.188/public_html/" local="130126140000000000" remote="130126140000000000" />
+<file name="NativeFileSessionHandler.php" server="10.1.17.188/public_html/" local="130126140000000000" remote="130126140000000000" />
+<file name="NativeSessionHandler.php" server="10.1.17.188/public_html/" local="130126140000000000" remote="130126140000000000" />
+<file name="NullSessionHandler.php" server="10.1.17.188/public_html/" local="130126140000000000" remote="130126140000000000" />
+<file name="PdoSessionHandler.php" server="10.1.17.188/public_html/" local="130126140000000000" remote="130126140000000000" />
+</dwsync>

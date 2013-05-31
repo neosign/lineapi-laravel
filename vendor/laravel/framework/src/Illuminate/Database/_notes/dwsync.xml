@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Connection.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="ConnectionInterface.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="ConnectionResolver.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="ConnectionResolverInterface.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="DatabaseManager.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="DatabaseServiceProvider.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Grammar.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="MigrationServiceProvider.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="MySqlConnection.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="PostgresConnection.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="README.md" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="SQLiteConnection.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="SeedServiceProvider.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Seeder.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="SqlServerConnection.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="composer.json" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+</dwsync>

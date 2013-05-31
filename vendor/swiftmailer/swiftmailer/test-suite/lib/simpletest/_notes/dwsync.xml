@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="HELP_MY_TESTS_DONT_WORK_ANYMORE" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="LICENSE" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="README" server="10.1.17.188/public_html/" local="130144881089501953" remote="130117917000000000" />
+<file name="TODO.xml" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="VERSION" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="authentication.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="autorun.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="browser.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="collector.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="compatibility.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="cookies.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="default_reporter.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="detached.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="dumper.php" server="10.1.17.188/public_html/" local="130144881273925781" remote="130117917000000000" />
+<file name="eclipse.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="encoding.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="errors.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="exceptions.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="expectation.php" server="10.1.17.188/public_html/" local="130144881281035156" remote="130117917000000000" />
+<file name="form.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="frames.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="http.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="invoker.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="mock_objects.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="page.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="parser.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="reflection_php4.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="reflection_php5.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="remote.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="reporter.php" server="10.1.17.188/public_html/" local="130144881436308593" remote="130117917000000000" />
+<file name="scorer.php" server="10.1.17.188/public_html/" local="130144881438007812" remote="130117917000000000" />
+<file name="selector.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="shell_tester.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="simpletest.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="socket.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="tag.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="test_case.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="unit_tester.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="url.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="user_agent.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="web_tester.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="xml.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+</dwsync>

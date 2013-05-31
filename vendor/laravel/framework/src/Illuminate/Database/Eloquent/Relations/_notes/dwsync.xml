@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BelongsTo.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="BelongsToMany.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="HasMany.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="HasOne.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="HasOneOrMany.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="MorphMany.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="MorphOne.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="MorphOneOrMany.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Pivot.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Relation.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+</dwsync>

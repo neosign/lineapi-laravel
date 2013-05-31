@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSmtpTransport.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="EsmtpHandler.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="EsmtpTransport.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="FailoverTransport.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="IoBuffer.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="LoadBalancedTransport.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="MailInvoker.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="MailTransport.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="NullTransport.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="SendmailTransport.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="SimpleMailInvoker.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="SmtpAgent.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="SpoolTransport.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="StreamBuffer.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+</dwsync>

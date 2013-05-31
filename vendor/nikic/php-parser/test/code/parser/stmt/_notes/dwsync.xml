@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="blocklessStatement.test" server="10.1.17.188/public_html/" local="130137634200000000" remote="130137634200000000" />
+<file name="const.test" server="10.1.17.188/public_html/" local="130137634200000000" remote="130137634200000000" />
+<file name="controlFlow.test" server="10.1.17.188/public_html/" local="130137634200000000" remote="130137634200000000" />
+<file name="declare.test" server="10.1.17.188/public_html/" local="130137634200000000" remote="130137634200000000" />
+<file name="echo.test" server="10.1.17.188/public_html/" local="130137634200000000" remote="130137634200000000" />
+<file name="haltCompiler.test" server="10.1.17.188/public_html/" local="130137634200000000" remote="130137634200000000" />
+<file name="haltCompilerInvalidSyntax.test-fail" server="10.1.17.188/public_html/" local="130137634200000000" remote="130137634200000000" />
+<file name="haltCompilerOutermostScope.test-fail" server="10.1.17.188/public_html/" local="130137634200000000" remote="130137634200000000" />
+<file name="if.test" server="10.1.17.188/public_html/" local="130137634200000000" remote="130137634200000000" />
+<file name="inlineHTML.test" server="10.1.17.188/public_html/" local="130137634200000000" remote="130137634200000000" />
+<file name="switch.test" server="10.1.17.188/public_html/" local="130137634200000000" remote="130137634200000000" />
+<file name="tryCatch.test" server="10.1.17.188/public_html/" local="130137634200000000" remote="130137634200000000" />
+<file name="tryCatch.test-fail" server="10.1.17.188/public_html/" local="130137634200000000" remote="130137634200000000" />
+<file name="unset.test" server="10.1.17.188/public_html/" local="130137634200000000" remote="130137634200000000" />
+</dwsync>

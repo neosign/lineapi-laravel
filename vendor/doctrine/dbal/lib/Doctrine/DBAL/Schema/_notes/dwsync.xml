@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractAsset.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="AbstractSchemaManager.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="Column.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="ColumnDiff.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="Comparator.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="Constraint.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="DB2SchemaManager.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="DrizzleSchemaManager.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="ForeignKeyConstraint.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="Index.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="MySqlSchemaManager.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="OracleSchemaManager.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="PostgreSqlSchemaManager.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SQLServerSchemaManager.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="Schema.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SchemaConfig.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SchemaDiff.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SchemaException.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="Sequence.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SqliteSchemaManager.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="Table.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="TableDiff.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="View.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+</dwsync>

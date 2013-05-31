@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ComposableStreamConnectionTest.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="ConnectionExceptionTest.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="ConnectionFactoryTest.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="ConnectionParametersTest.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="MasterSlaveReplicationTest.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="PhpiredisConnectionTest.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="PhpiredisStreamConnectionTest.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="PredisClusterTest.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="RedisClusterTest.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="StreamConnectionTest.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="WebdisConnectionTest.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+</dwsync>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractConnection.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="AggregatedConnectionInterface.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="ClusterConnectionInterface.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="ComposableConnectionInterface.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="ComposableStreamConnection.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="ConnectionException.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="ConnectionFactory.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="ConnectionFactoryInterface.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="ConnectionInterface.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="ConnectionParameters.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="ConnectionParametersInterface.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="MasterSlaveReplication.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="PhpiredisConnection.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="PhpiredisStreamConnection.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="PredisCluster.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="RedisCluster.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="ReplicationConnectionInterface.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="SingleConnectionInterface.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="StreamConnection.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="WebdisConnection.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+</dwsync>

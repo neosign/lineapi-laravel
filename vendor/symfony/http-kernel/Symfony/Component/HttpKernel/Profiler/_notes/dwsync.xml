@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BaseMemcacheProfilerStorage.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="FileProfilerStorage.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="MemcacheProfilerStorage.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="MemcachedProfilerStorage.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="MongoDbProfilerStorage.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="MysqlProfilerStorage.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="PdoProfilerStorage.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="Profile.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="Profiler.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="ProfilerStorageInterface.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="RedisProfilerStorage.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="SqliteProfilerStorage.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+</dwsync>

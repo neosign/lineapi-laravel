@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConfigDataCollector.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="DataCollector.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="DataCollectorInterface.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="EventDataCollector.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="ExceptionDataCollector.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="LoggerDataCollector.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="MemoryDataCollector.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="RequestDataCollector.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="RouterDataCollector.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="TimeDataCollector.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+</dwsync>

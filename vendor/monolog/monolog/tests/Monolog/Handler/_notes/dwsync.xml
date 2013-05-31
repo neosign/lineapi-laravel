@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="AbstractProcessingHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="AmqpExchangeMock.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="AmqpHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="BufferHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="ChromePHPHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="CouchDBHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="DoctrineCouchDBHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="FingersCrossedHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="FirePHPHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="GelfHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="GelfMocks.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="GroupHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="MailHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="MockRavenClient.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="MongoDBHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="NativeMailerHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="NullHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="PushoverHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="RavenHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="RedisHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="RotatingFileHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="SocketHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="StreamHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="SyslogHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="TestHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="ZendMonitorHandlerTest.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+</dwsync>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApcStore.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="ApcWrapper.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="ArrayStore.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="CacheManager.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="CacheServiceProvider.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="DatabaseStore.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="FileStore.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="MemcachedConnector.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="MemcachedStore.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="RedisSection.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="RedisStore.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Repository.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Section.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="StoreInterface.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="WinCacheStore.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="composer.json" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+</dwsync>

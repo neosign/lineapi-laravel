@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Attachment.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="CharsetObserver.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="ContentEncoder.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="EmbeddedFile.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="EncodingObserver.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="Grammar.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="Header.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="HeaderEncoder.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="HeaderFactory.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="HeaderSet.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="Message.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="MimeEntity.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="MimePart.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="ParameterizedHeader.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="SimpleHeaderFactory.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="SimpleHeaderSet.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="SimpleMessage.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="SimpleMimeEntity.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+</dwsync>

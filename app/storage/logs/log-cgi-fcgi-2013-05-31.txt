@@ -1,0 +1,610 @@
+[2013-05-31 05:10:22] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:10:27] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:10:31] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:10:32] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:10:34] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:10:47] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:11:51] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:12:00] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:12:11] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:12:40] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:12:42] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:14:48] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:14:51] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:13] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:18] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:19] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:19] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:19] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:19] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:19] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:20] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:20] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:20] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:21] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:21] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:40] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:43] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:45] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:49] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:49] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:17:50] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:18:03] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:18:06] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:18:12] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:18:47] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:23:16] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:24:14] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:27:44] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:28:08] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:28:58] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:29:00] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 05:50:11] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Base_Controller' not found' in /home/bigdatachat/public_html/app/controllers/UserController.php:3
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-05-31 05:51:12] log.ERROR: exception 'ReflectionException' with message 'Class UserController does not exist' in /home/bigdatachat/public_html/bootstrap/compiled.php:165
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(165): ReflectionClass->__construct('UserController')
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(142): Illuminate\Container\Container->build('UserController', Array)
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(442): Illuminate\Container\Container->make('UserController', Array)
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(4737): Illuminate\Foundation\Application->make('UserController')
+#4 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#5 /home/bigdatachat/public_html/bootstrap/compiled.php(7796): call_user_func_array(Object(Closure), Array)
+#6 /home/bigdatachat/public_html/bootstrap/compiled.php(7783): Illuminate\Routing\Route->callCallable()
+#7 /home/bigdatachat/public_html/bootstrap/compiled.php(4749): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#8 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#9 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#10 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#11 {main} [] []
+[2013-05-31 05:51:16] log.ERROR: exception 'ReflectionException' with message 'Class UserController does not exist' in /home/bigdatachat/public_html/bootstrap/compiled.php:165
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(165): ReflectionClass->__construct('UserController')
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(142): Illuminate\Container\Container->build('UserController', Array)
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(442): Illuminate\Container\Container->make('UserController', Array)
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(4737): Illuminate\Foundation\Application->make('UserController')
+#4 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#5 /home/bigdatachat/public_html/bootstrap/compiled.php(7796): call_user_func_array(Object(Closure), Array)
+#6 /home/bigdatachat/public_html/bootstrap/compiled.php(7783): Illuminate\Routing\Route->callCallable()
+#7 /home/bigdatachat/public_html/bootstrap/compiled.php(4749): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#8 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#9 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#10 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#11 {main} [] []
+[2013-05-31 05:52:54] log.ERROR: exception 'ReflectionException' with message 'Class User_Controller does not exist' in /home/bigdatachat/public_html/bootstrap/compiled.php:165
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(165): ReflectionClass->__construct('User_Controller')
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(142): Illuminate\Container\Container->build('User_Controller', Array)
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(442): Illuminate\Container\Container->make('User_Controller', Array)
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(4737): Illuminate\Foundation\Application->make('User_Controller')
+#4 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#5 /home/bigdatachat/public_html/bootstrap/compiled.php(7796): call_user_func_array(Object(Closure), Array)
+#6 /home/bigdatachat/public_html/bootstrap/compiled.php(7783): Illuminate\Routing\Route->callCallable()
+#7 /home/bigdatachat/public_html/bootstrap/compiled.php(4749): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#8 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#9 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#10 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#11 {main} [] []
+[2013-05-31 05:52:56] log.ERROR: exception 'ReflectionException' with message 'Class User_Controller does not exist' in /home/bigdatachat/public_html/bootstrap/compiled.php:165
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(165): ReflectionClass->__construct('User_Controller')
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(142): Illuminate\Container\Container->build('User_Controller', Array)
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(442): Illuminate\Container\Container->make('User_Controller', Array)
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(4737): Illuminate\Foundation\Application->make('User_Controller')
+#4 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#5 /home/bigdatachat/public_html/bootstrap/compiled.php(7796): call_user_func_array(Object(Closure), Array)
+#6 /home/bigdatachat/public_html/bootstrap/compiled.php(7783): Illuminate\Routing\Route->callCallable()
+#7 /home/bigdatachat/public_html/bootstrap/compiled.php(4749): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#8 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#9 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#10 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#11 {main} [] []
+[2013-05-31 05:52:59] log.ERROR: exception 'ReflectionException' with message 'Class User_Controller does not exist' in /home/bigdatachat/public_html/bootstrap/compiled.php:165
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(165): ReflectionClass->__construct('User_Controller')
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(142): Illuminate\Container\Container->build('User_Controller', Array)
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(442): Illuminate\Container\Container->make('User_Controller', Array)
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(4737): Illuminate\Foundation\Application->make('User_Controller')
+#4 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#5 /home/bigdatachat/public_html/bootstrap/compiled.php(7796): call_user_func_array(Object(Closure), Array)
+#6 /home/bigdatachat/public_html/bootstrap/compiled.php(7783): Illuminate\Routing\Route->callCallable()
+#7 /home/bigdatachat/public_html/bootstrap/compiled.php(4749): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#8 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#9 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#10 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#11 {main} [] []
+[2013-05-31 05:54:27] log.ERROR: exception 'ReflectionException' with message 'Class User_Controller does not exist' in /home/bigdatachat/public_html/bootstrap/compiled.php:165
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(165): ReflectionClass->__construct('User_Controller')
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(142): Illuminate\Container\Container->build('User_Controller', Array)
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(442): Illuminate\Container\Container->make('User_Controller', Array)
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(4737): Illuminate\Foundation\Application->make('User_Controller')
+#4 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#5 /home/bigdatachat/public_html/bootstrap/compiled.php(7796): call_user_func_array(Object(Closure), Array)
+#6 /home/bigdatachat/public_html/bootstrap/compiled.php(7783): Illuminate\Routing\Route->callCallable()
+#7 /home/bigdatachat/public_html/bootstrap/compiled.php(4749): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#8 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#9 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#10 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#11 {main} [] []
+[2013-05-31 05:54:30] log.ERROR: exception 'ReflectionException' with message 'Class User_Controller does not exist' in /home/bigdatachat/public_html/bootstrap/compiled.php:165
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(165): ReflectionClass->__construct('User_Controller')
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(142): Illuminate\Container\Container->build('User_Controller', Array)
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(442): Illuminate\Container\Container->make('User_Controller', Array)
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(4737): Illuminate\Foundation\Application->make('User_Controller')
+#4 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#5 /home/bigdatachat/public_html/bootstrap/compiled.php(7796): call_user_func_array(Object(Closure), Array)
+#6 /home/bigdatachat/public_html/bootstrap/compiled.php(7783): Illuminate\Routing\Route->callCallable()
+#7 /home/bigdatachat/public_html/bootstrap/compiled.php(4749): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#8 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#9 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#10 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#11 {main} [] []
+[2013-05-31 05:57:13] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/vendor/laravel/framework/src/Illuminate/Routing/Controllers/Controller.php:302
+Stack trace:
+#0 [internal function]: Illuminate\Routing\Controllers\Controller->__call('index', Array)
+#1 [internal function]: UserController->index()
+#2 /home/bigdatachat/public_html/vendor/laravel/framework/src/Illuminate/Routing/Controllers/Controller.php(138): call_user_func_array(Array, Array)
+#3 /home/bigdatachat/public_html/vendor/laravel/framework/src/Illuminate/Routing/Controllers/Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('index', Array)
+#4 /home/bigdatachat/public_html/bootstrap/compiled.php(4738): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'index', Array)
+#5 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#6 /home/bigdatachat/public_html/bootstrap/compiled.php(7796): call_user_func_array(Object(Closure), Array)
+#7 /home/bigdatachat/public_html/bootstrap/compiled.php(7783): Illuminate\Routing\Route->callCallable()
+#8 /home/bigdatachat/public_html/bootstrap/compiled.php(4749): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#9 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#10 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#11 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#12 {main} [] []
+[2013-05-31 06:13:15] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 06:13:26] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to a member function toArray() on a non-object' in /home/bigdatachat/public_html/app/controllers/UserController.php:15
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-05-31 06:16:16] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected ''error'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'' in /home/bigdatachat/public_html/app/controllers/UserController.php:14
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-05-31 06:16:58] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '    ' (T_STRING)' in /home/bigdatachat/public_html/app/controllers/UserController.php:15
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-05-31 06:19:37] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to a member function toArray() on a non-object' in /home/bigdatachat/public_html/app/controllers/UserController.php:17
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-05-31 06:47:13] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 07:26:35] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 07:27:32] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 07:27:43] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 07:47:18] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 07:50:48] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 08:26:00] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 08:26:02] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 08:26:06] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in /home/bigdatachat/public_html/bootstrap/compiled.php:4915
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(4760): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(4748): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-05-31 08:32:04] log.ERROR: exception 'BadMethodCallException' with message 'Method [user] is not supported by Sentry or no User has been set on Sentry to access shortcut method.' in /home/bigdatachat/public_html/vendor/cartalyst/sentry/src/Cartalyst/Sentry/Sentry.php:521
+Stack trace:
+#0 /home/bigdatachat/public_html/bootstrap/compiled.php(3308): Cartalyst\Sentry\Sentry->__call('user', Array)
+#1 /home/bigdatachat/public_html/bootstrap/compiled.php(3308): Cartalyst\Sentry\Sentry->user()
+#2 /home/bigdatachat/public_html/app/controllers/UserController.php(13): Illuminate\Support\Facades\Facade::__callStatic('user', Array)
+#3 /home/bigdatachat/public_html/app/controllers/UserController.php(13): Cartalyst\Sentry\Facades\Laravel\Sentry::user()
+#4 [internal function]: UserController->index()
+#5 /home/bigdatachat/public_html/vendor/laravel/framework/src/Illuminate/Routing/Controllers/Controller.php(138): call_user_func_array(Array, Array)
+#6 /home/bigdatachat/public_html/vendor/laravel/framework/src/Illuminate/Routing/Controllers/Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('index', Array)
+#7 /home/bigdatachat/public_html/bootstrap/compiled.php(4738): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'index', Array)
+#8 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#9 /home/bigdatachat/public_html/bootstrap/compiled.php(7796): call_user_func_array(Object(Closure), Array)
+#10 /home/bigdatachat/public_html/bootstrap/compiled.php(7783): Illuminate\Routing\Route->callCallable()
+#11 /home/bigdatachat/public_html/bootstrap/compiled.php(4749): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#12 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#13 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#14 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#15 {main} [] []
+[2013-05-31 08:51:03] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected 'Response' (T_STRING)' in /home/bigdatachat/public_html/app/controllers/UserController.php:15
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-05-31 08:53:13] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected 'Response' (T_STRING)' in /home/bigdatachat/public_html/app/controllers/UserController.php:17
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-05-31 08:53:56] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected ')'' in /home/bigdatachat/public_html/app/controllers/UserController.php:14
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-05-31 08:54:40] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected 'Response' (T_STRING)' in /home/bigdatachat/public_html/app/controllers/UserController.php:16
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-05-31 08:54:59] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected ')'' in /home/bigdatachat/public_html/app/controllers/UserController.php:12
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-05-31 08:55:36] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'User' not found' in /home/bigdatachat/public_html/app/controllers/UserController.php:12
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-05-31 09:02:25] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'User' not found' in /home/bigdatachat/public_html/app/controllers/UserController.php:12
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-05-31 09:03:46] log.ERROR: exception 'ErrorException' with message 'Trying to get property of non-object' in /home/bigdatachat/public_html/app/controllers/UserController.php:12
+Stack trace:
+#0 /home/bigdatachat/public_html/app/controllers/UserController.php(12): Illuminate\Exception\Handler->handleError(8, 'Trying to get p...', '/home/bigdatach...', 12, Array)
+#1 [internal function]: UserController->index()
+#2 /home/bigdatachat/public_html/vendor/laravel/framework/src/Illuminate/Routing/Controllers/Controller.php(138): call_user_func_array(Array, Array)
+#3 /home/bigdatachat/public_html/vendor/laravel/framework/src/Illuminate/Routing/Controllers/Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('index', Array)
+#4 /home/bigdatachat/public_html/bootstrap/compiled.php(4738): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'index', Array)
+#5 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#6 /home/bigdatachat/public_html/bootstrap/compiled.php(7796): call_user_func_array(Object(Closure), Array)
+#7 /home/bigdatachat/public_html/bootstrap/compiled.php(7783): Illuminate\Routing\Route->callCallable()
+#8 /home/bigdatachat/public_html/bootstrap/compiled.php(4749): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#9 /home/bigdatachat/public_html/bootstrap/compiled.php(481): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#10 /home/bigdatachat/public_html/bootstrap/compiled.php(470): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#11 /home/bigdatachat/public_html/public/index.php(49): Illuminate\Foundation\Application->run()
+#12 {main} [] []
+[2013-05-31 09:07:55] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'User' not found' in /home/bigdatachat/public_html/app/controllers/UserController.php:12
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-05-31 09:14:31] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to a member function get() on a non-object' in /home/bigdatachat/public_html/app/controllers/UserController.php:13
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []

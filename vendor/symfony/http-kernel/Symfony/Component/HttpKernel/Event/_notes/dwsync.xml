@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="FilterControllerEvent.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="FilterResponseEvent.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="GetResponseEvent.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="GetResponseForControllerResultEvent.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="GetResponseForExceptionEvent.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="KernelEvent.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="PostResponseEvent.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+</dwsync>
