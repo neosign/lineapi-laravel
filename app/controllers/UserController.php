@@ -9,8 +9,9 @@ class UserController extends \BaseController {
 	 */
 	public function index()
 	{
-		echo "Hello APIs";
-		//
+		$users = Sentry::getUserProvider()->findAll();
+		print_r($users);
+		
 	}
 
 	/**
