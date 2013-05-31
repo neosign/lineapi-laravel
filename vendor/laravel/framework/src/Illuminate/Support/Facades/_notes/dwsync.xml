@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="App.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Artisan.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Auth.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Blade.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Cache.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Config.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Cookie.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Crypt.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="DB.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Event.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Facade.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="File.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Form.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="HTML.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Hash.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Input.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Lang.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Log.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Mail.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Paginator.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Password.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Queue.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Redirect.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Redis.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Request.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Response.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Route.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Schema.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Session.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="URL.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Validator.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="View.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+</dwsync>

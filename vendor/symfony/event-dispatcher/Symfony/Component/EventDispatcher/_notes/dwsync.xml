@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CHANGELOG.md" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="ContainerAwareEventDispatcher.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="Event.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="EventDispatcher.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="EventDispatcherInterface.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="EventSubscriberInterface.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="GenericEvent.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="ImmutableEventDispatcher.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="LICENSE" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="README.md" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="composer.json" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="phpunit.xml.dist" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+</dwsync>

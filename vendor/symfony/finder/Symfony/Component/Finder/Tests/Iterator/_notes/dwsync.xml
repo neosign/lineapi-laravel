@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CustomFilterIteratorTest.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="DateRangeFilterIteratorTest.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="DepthRangeFilterIteratorTest.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="ExcludeDirectoryFilterIteratorTest.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="FilePathsIteratorTest.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="FileTypeFilterIteratorTest.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="FilecontentFilterIteratorTest.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="FilenameFilterIteratorTest.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="FilterIteratorTest.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="Iterator.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="IteratorTestCase.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="MockFileListIterator.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="MockSplFileInfo.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="MultiplePcreFilterIteratorTest.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="PathFilterIteratorTest.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="RealIteratorTestCase.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="RecursiveDirectoryIteratorTest.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="SizeRangeFilterIteratorTest.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="SortableIteratorTest.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+</dwsync>

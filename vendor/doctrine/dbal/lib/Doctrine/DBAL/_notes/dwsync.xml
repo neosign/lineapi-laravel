@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Configuration.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="Connection.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="ConnectionException.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="DBALException.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="Driver.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="DriverManager.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="Events.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="LockMode.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="README.markdown" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SQLParserUtils.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SQLParserUtilsException.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="Statement.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="Version.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+</dwsync>

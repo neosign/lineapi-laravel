@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessDeniedHttpException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="BadRequestHttpException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="ConflictHttpException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="FatalErrorException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="FlattenException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="GoneHttpException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="HttpException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="HttpExceptionInterface.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="LengthRequiredHttpException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="MethodNotAllowedHttpException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="NotAcceptableHttpException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="NotFoundHttpException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="PreconditionFailedHttpException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="PreconditionRequiredHttpException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="ServiceUnavailableHttpException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="TooManyRequestsHttpException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="UnauthorizedHttpException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+<file name="UnsupportedMediaTypeHttpException.php" server="10.1.17.188/public_html/" local="130131898800000000" remote="130131898800000000" />
+</dwsync>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayLoader.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="CsvFileLoader.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="IcuDatFileLoader.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="IcuResFileLoader.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="IniFileLoader.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="LoaderInterface.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="MoFileLoader.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="PhpFileLoader.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="PoFileLoader.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="QtFileLoader.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="XliffFileLoader.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+<file name="YamlFileLoader.php" server="10.1.17.188/public_html/" local="130129041600000000" remote="130129041600000000" />
+</dwsync>

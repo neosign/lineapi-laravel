@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Annotation.php" server="10.1.17.188/public_html/" local="130108950000000000" remote="130108950000000000" />
+<file name="AnnotationException.php" server="10.1.17.188/public_html/" local="130108950000000000" remote="130108950000000000" />
+<file name="AnnotationReader.php" server="10.1.17.188/public_html/" local="130108950000000000" remote="130108950000000000" />
+<file name="AnnotationRegistry.php" server="10.1.17.188/public_html/" local="130108950000000000" remote="130108950000000000" />
+<file name="CachedReader.php" server="10.1.17.188/public_html/" local="130108950000000000" remote="130108950000000000" />
+<file name="DocLexer.php" server="10.1.17.188/public_html/" local="130108950000000000" remote="130108950000000000" />
+<file name="DocParser.php" server="10.1.17.188/public_html/" local="130108950000000000" remote="130108950000000000" />
+<file name="FileCacheReader.php" server="10.1.17.188/public_html/" local="130108950000000000" remote="130108950000000000" />
+<file name="IndexedReader.php" server="10.1.17.188/public_html/" local="130108950000000000" remote="130108950000000000" />
+<file name="PhpParser.php" server="10.1.17.188/public_html/" local="130108950000000000" remote="130108950000000000" />
+<file name="Reader.php" server="10.1.17.188/public_html/" local="130108950000000000" remote="130108950000000000" />
+<file name="SimpleAnnotationReader.php" server="10.1.17.188/public_html/" local="130108950000000000" remote="130108950000000000" />
+<file name="TokenParser.php" server="10.1.17.188/public_html/" local="130108950000000000" remote="130108950000000000" />
+</dwsync>

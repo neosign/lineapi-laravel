@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConnectionFactory.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="Connector.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="ConnectorInterface.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="MySqlConnector.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="PostgresConnector.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="SQLiteConnector.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+<file name="SqlServerConnector.php" server="10.1.17.188/public_html/" local="130143226800000000" remote="130143226800000000" />
+</dwsync>

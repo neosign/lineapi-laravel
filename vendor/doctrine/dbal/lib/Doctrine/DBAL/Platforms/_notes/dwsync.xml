@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractPlatform.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="DB2Platform.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="DrizzlePlatform.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="MySqlPlatform.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="OraclePlatform.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="PostgreSqlPlatform.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SQLAzurePlatform.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SQLServer2005Platform.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SQLServer2008Platform.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SQLServer2012Platform.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SQLServerPlatform.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<file name="SqlitePlatform.php" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+</dwsync>

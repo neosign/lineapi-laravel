@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ChromePHPFormatter.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="FormatterInterface.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="GelfMessageFormatter.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="JsonFormatter.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="LineFormatter.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="LogstashFormatter.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="NormalizerFormatter.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+<file name="WildfireFormatter.php" server="10.1.17.188/public_html/" local="130111601400000000" remote="130111601400000000" />
+</dwsync>

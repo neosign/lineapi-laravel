@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Action.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="Description.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="Expectation.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="ExpectationProvider.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="Expectations.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="Invocation.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="InvocationHandler.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="InvocationProxy.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="InvocationRecorder.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="Matcher.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="MockGenerator.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="MockObject.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="Mockery.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="NotSatisfiedException.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="SelfDescribing.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="Sequence.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="SimpleDescription.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="SimpleInvocation.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="SimpleSequence.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="SimpleState.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="SimpleStatePredicate.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="State.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="StateMachine.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="StatePredicate.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="States.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+</dwsync>

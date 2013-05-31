@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApcCache.php" server="10.1.17.188/public_html/" local="130128618600000000" remote="130128618600000000" />
+<file name="ArrayCache.php" server="10.1.17.188/public_html/" local="130128618600000000" remote="130128618600000000" />
+<file name="Cache.php" server="10.1.17.188/public_html/" local="130128618600000000" remote="130128618600000000" />
+<file name="CacheProvider.php" server="10.1.17.188/public_html/" local="130128618600000000" remote="130128618600000000" />
+<file name="CouchbaseCache.php" server="10.1.17.188/public_html/" local="130128618600000000" remote="130128618600000000" />
+<file name="FileCache.php" server="10.1.17.188/public_html/" local="130128618600000000" remote="130128618600000000" />
+<file name="FilesystemCache.php" server="10.1.17.188/public_html/" local="130128618600000000" remote="130128618600000000" />
+<file name="MemcacheCache.php" server="10.1.17.188/public_html/" local="130128618600000000" remote="130128618600000000" />
+<file name="MemcachedCache.php" server="10.1.17.188/public_html/" local="130128618600000000" remote="130128618600000000" />
+<file name="PhpFileCache.php" server="10.1.17.188/public_html/" local="130128618600000000" remote="130128618600000000" />
+<file name="RedisCache.php" server="10.1.17.188/public_html/" local="130128618600000000" remote="130128618600000000" />
+<file name="WinCacheCache.php" server="10.1.17.188/public_html/" local="130128618600000000" remote="130128618600000000" />
+<file name="XcacheCache.php" server="10.1.17.188/public_html/" local="130128618600000000" remote="130128618600000000" />
+<file name="ZendDataCache.php" server="10.1.17.188/public_html/" local="130128618600000000" remote="130128618600000000" />
+</dwsync>

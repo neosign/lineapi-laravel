@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CustomDistributionStrategy.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="DispatcherLoop.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="KeyPrefixes.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="MasterSlaveReplication.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="MasterSlaveReplicationComplex.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="MonitorContext.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="MultiBulkReplyIterators.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="MultiExecTransactionsWithCAS.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="MultipleSetAndGet.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="PipelineContext.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="PubSubContext.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="ServerSideScripting.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="SessionHandler.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="SharedConfigurations.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="SimpleDebuggableConnection.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<file name="SimpleSetAndGet.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+</dwsync>

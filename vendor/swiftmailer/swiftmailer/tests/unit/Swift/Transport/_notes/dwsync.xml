@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSmtpEventSupportTest.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="AbstractSmtpTest.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="EsmtpTransportTest.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="FailoverTransportTest.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="LoadBalancedTransportTest.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="MailTransportTest.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="SendmailTransportTest.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="StreamBufferTest.php" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+</dwsync>

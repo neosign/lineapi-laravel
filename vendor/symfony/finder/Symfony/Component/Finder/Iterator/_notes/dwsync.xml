@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CustomFilterIterator.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="DateRangeFilterIterator.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="DepthRangeFilterIterator.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="ExcludeDirectoryFilterIterator.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="FilePathsIterator.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="FileTypeFilterIterator.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="FilecontentFilterIterator.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="FilenameFilterIterator.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="FilterIterator.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="MultiplePcreFilterIterator.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="PathFilterIterator.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="RecursiveDirectoryIterator.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="SizeRangeFilterIterator.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+<file name="SortableIterator.php" server="10.1.17.188/public_html/" local="130141145400000000" remote="130141145400000000" />
+</dwsync>

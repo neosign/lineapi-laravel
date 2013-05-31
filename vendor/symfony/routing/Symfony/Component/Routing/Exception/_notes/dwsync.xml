@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ExceptionInterface.php" server="10.1.17.188/public_html/" local="130134886200000000" remote="130134886200000000" />
+<file name="InvalidParameterException.php" server="10.1.17.188/public_html/" local="130134886200000000" remote="130134886200000000" />
+<file name="MethodNotAllowedException.php" server="10.1.17.188/public_html/" local="130134886200000000" remote="130134886200000000" />
+<file name="MissingMandatoryParametersException.php" server="10.1.17.188/public_html/" local="130134886200000000" remote="130134886200000000" />
+<file name="ResourceNotFoundException.php" server="10.1.17.188/public_html/" local="130134886200000000" remote="130134886200000000" />
+<file name="RouteNotFoundException.php" server="10.1.17.188/public_html/" local="130134886200000000" remote="130134886200000000" />
+</dwsync>
