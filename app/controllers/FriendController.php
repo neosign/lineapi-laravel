@@ -1,6 +1,6 @@
 <?php
 
-class UserController extends \BaseController {
+class FriendController extends \BaseController {
 
 	/**
 	 * Display a listing of the resource.
@@ -9,13 +9,8 @@ class UserController extends \BaseController {
 	 */
 	public function index()
 	{
-		$users = Sentry::getUserProvider()->findAll();		
-		foreach($users  as $account){
-			print_r($account);
-			}
-		
-		//print_r($users);
-		
+		echo "friend list";
+		//
 	}
 
 	/**
@@ -46,7 +41,6 @@ class UserController extends \BaseController {
 	 */
 	public function show($id)
 	{
-		echo "select user ".$id;
 		//
 	}
 
