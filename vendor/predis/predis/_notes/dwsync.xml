@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
 <file name="CHANGELOG.NAMING.md" server="10.1.17.188/public_html/" local="130144879901494140" remote="130091049600000000" />
+=======
+<file name="CHANGELOG.NAMING.md" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+>>>>>>> aa4402cf2a4f38c614cc23c00bea3626309cf700
 <file name="CHANGELOG.md" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
 <file name="CONTRIBUTING.md" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
 <file name="FAQ.md" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />

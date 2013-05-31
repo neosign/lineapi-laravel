@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
 <file name="ClassLoader.php" server="10.1.17.188/public_html/" local="130144239000000000" remote="130144239000000000" />
 <file name="autoload_classmap.php" server="10.1.17.188/public_html/" local="130144239000000000" remote="130144239000000000" />
 <file name="autoload_namespaces.php" server="10.1.17.188/public_html/" local="130144239000000000" remote="130144239000000000" />
 <file name="autoload_real.php" server="10.1.17.188/public_html/" local="130144239000000000" remote="130144239000000000" />
 <file name="installed.json" server="10.1.17.188/public_html/" local="130144239000000000" remote="130144239000000000" />
+=======
+<file name="ClassLoader.php" server="10.1.17.188/public_html/" local="130143625200000000" remote="130143625200000000" />
+<file name="autoload_classmap.php" server="10.1.17.188/public_html/" local="130143625200000000" remote="130143625200000000" />
+<file name="autoload_namespaces.php" server="10.1.17.188/public_html/" local="130143625200000000" remote="130143625200000000" />
+<file name="autoload_real.php" server="10.1.17.188/public_html/" local="130143625200000000" remote="130143625200000000" />
+<file name="installed.json" server="10.1.17.188/public_html/" local="130143624600000000" remote="130143624600000000" />
+>>>>>>> aa4402cf2a4f38c614cc23c00bea3626309cf700
 </dwsync>

@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
 <file name="DatabaseSeeder.php" server="10.1.17.188/public_html/" local="130144270800000000" remote="130144270800000000" />
 <file name="SentrySeeder.php" server="10.1.17.188/public_html/" local="130144270800000000" remote="130144270800000000" />
+=======
+<file name="DatabaseSeeder.php" server="10.1.17.188/public_html/" local="130144523072695744" remote="130144270800000000" />
+<file name="SentrySeeder.php" server="10.1.17.188/public_html/" local="130144522243098294" remote="130144270800000000" />
+>>>>>>> aa4402cf2a4f38c614cc23c00bea3626309cf700
 </dwsync>

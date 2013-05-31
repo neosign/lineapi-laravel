@@ -7,7 +7,11 @@
 <file name="ConnectionPing.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
 <file name="ConnectionQuit.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
 <file name="ConnectionSelect.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<<<<<<< HEAD
 <file name="HashDelete.php" server="10.1.17.188/public_html/" local="130144879993339843" remote="130091049600000000" />
+=======
+<file name="HashDelete.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+>>>>>>> aa4402cf2a4f38c614cc23c00bea3626309cf700
 <file name="HashExists.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
 <file name="HashGet.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
 <file name="HashGetAll.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
@@ -101,7 +105,11 @@
 <file name="SetUnionStore.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
 <file name="StringAppend.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
 <file name="StringBitCount.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+<<<<<<< HEAD
 <file name="StringBitOp.php" server="10.1.17.188/public_html/" local="130144880117441406" remote="130091049600000000" />
+=======
+<file name="StringBitOp.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
+>>>>>>> aa4402cf2a4f38c614cc23c00bea3626309cf700
 <file name="StringDecrement.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
 <file name="StringDecrementBy.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />
 <file name="StringGet.php" server="10.1.17.188/public_html/" local="130091049600000000" remote="130091049600000000" />

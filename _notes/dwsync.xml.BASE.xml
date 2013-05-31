@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
 <file name="artisan" server="10.1.17.188/public_html/" local="130143616800000000" remote="130143616800000000" />
-<<<<<<< HEAD
-<file name="composer.json" server="10.1.17.188/public_html/" local="130144237800000000" remote="130144237800000000" />
-=======
-<file name="composer.json" server="10.1.17.188/public_html/" local="130144489909708930" remote="130144237800000000" />
->>>>>>> aa4402cf2a4f38c614cc23c00bea3626309cf700
+<file name="composer.json" server="10.1.17.188/public_html/" local="130143616800000000" remote="130143616800000000" />
 <file name="CONTRIBUTING.md" server="10.1.17.188/public_html/" local="130143616800000000" remote="130143616800000000" />
 <file name="phpunit.xml" server="10.1.17.188/public_html/" local="130143616800000000" remote="130143616800000000" />
 <file name="readme.md" server="10.1.17.188/public_html/" local="130143616800000000" remote="130143616800000000" />
 <file name="server.php" server="10.1.17.188/public_html/" local="130143616800000000" remote="130143616800000000" />
-<file name="composer.lock" server="10.1.17.188/public_html/" local="130144239000000000" remote="130144239000000000" />
-<file name="LoggerAsync.py" server="10.1.17.188/public_html/" local="130134997200000000" remote="130134997200000000" />
+<file name="composer.lock" server="10.1.17.188/public_html/" local="130143624600000000" remote="130143624600000000" />
 </dwsync>

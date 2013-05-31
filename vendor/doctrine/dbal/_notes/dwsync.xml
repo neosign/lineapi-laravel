@@ -2,6 +2,10 @@
 <dwsync>
 <file name="LICENSE" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
 <file name="README.md" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+<<<<<<< HEAD
 <file name="UPGRADE" server="10.1.17.188/public_html/" local="130144877865429687" remote="130141306200000000" />
+=======
+<file name="UPGRADE" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
+>>>>>>> aa4402cf2a4f38c614cc23c00bea3626309cf700
 <file name="composer.json" server="10.1.17.188/public_html/" local="130141306200000000" remote="130141306200000000" />
 </dwsync>

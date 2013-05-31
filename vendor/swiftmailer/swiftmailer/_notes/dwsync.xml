@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
 <file name="CHANGES" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<<<<<<< HEAD
 <file name="LICENSE" server="10.1.17.188/public_html/" local="130144880652089843" remote="130117917000000000" />
 <file name="README" server="10.1.17.188/public_html/" local="130144880653378906" remote="130117917000000000" />
+=======
+<file name="LICENSE" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+<file name="README" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
+>>>>>>> aa4402cf2a4f38c614cc23c00bea3626309cf700
 <file name="README.git" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
 <file name="VERSION" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />
 <file name="build.xml" server="10.1.17.188/public_html/" local="130117917000000000" remote="130117917000000000" />

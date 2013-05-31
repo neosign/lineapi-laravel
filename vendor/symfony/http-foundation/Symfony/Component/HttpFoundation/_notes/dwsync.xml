@@ -6,7 +6,11 @@
 <file name="BinaryFileResponse.php" server="10.1.17.188/public_html/" local="130126140000000000" remote="130126140000000000" />
 <file name="CHANGELOG.md" server="10.1.17.188/public_html/" local="130126140000000000" remote="130126140000000000" />
 <file name="Cookie.php" server="10.1.17.188/public_html/" local="130126140000000000" remote="130126140000000000" />
+<<<<<<< HEAD
 <file name="FileBag.php" server="10.1.17.188/public_html/" local="130144883014140625" remote="130126140000000000" />
+=======
+<file name="FileBag.php" server="10.1.17.188/public_html/" local="130126140000000000" remote="130126140000000000" />
+>>>>>>> aa4402cf2a4f38c614cc23c00bea3626309cf700
 <file name="HeaderBag.php" server="10.1.17.188/public_html/" local="130126140000000000" remote="130126140000000000" />
 <file name="IpUtils.php" server="10.1.17.188/public_html/" local="130126140000000000" remote="130126140000000000" />
 <file name="JsonResponse.php" server="10.1.17.188/public_html/" local="130126140000000000" remote="130126140000000000" />
