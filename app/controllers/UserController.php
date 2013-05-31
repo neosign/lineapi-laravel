@@ -9,17 +9,13 @@ class UserController extends \BaseController {
 	 */
 	public function index()
 	{
-<<<<<<< HEAD
+
 		$users = Sentry::getUserProvider()->findAll();		
 		foreach($users  as $account){
 			print_r($account);
 			}
 		
-=======
-		$users = Sentry::getUserProvider()->findAll();
-		echo "user list";
->>>>>>> aa4402cf2a4f38c614cc23c00bea3626309cf700
-		//print_r($users);
+
 		
 	}
 
