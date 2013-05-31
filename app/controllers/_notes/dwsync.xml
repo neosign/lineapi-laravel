@@ -2,6 +2,9 @@
 <dwsync>
 <file name="BaseController.php" server="10.1.17.188/public_html/" local="130143616800000000" remote="130143616800000000" />
 <file name="HomeController.php" server="10.1.17.188/public_html/" local="130143616800000000" remote="130143616800000000" />
-<file name="UrlController.php" server="10.1.17.188/public_html/" local="130143798000000000" remote="130143805200000000" />
-<file name="UserController.php" server="10.1.17.188/public_html/" local="130144557169075946" remote="130144305000000000" />
+<file name="UrlController.php" server="10.1.17.188/public_html/" local="130144336200000000" remote="130144336200000000" />
+<file name="UserController.php" server="10.1.17.188/public_html/" local="130144344000000000" remote="130144344000000000" />
+<file name="FriendController.php" server="10.1.17.188/public_html/" local="130144344000000000" remote="130144344000000000" />
+<file name="MessageController.php" server="10.1.17.188/public_html/" local="130144345800000000" remote="130144345800000000" />
+<file name="GroupController.php" server="10.1.17.188/public_html/" local="130144601676461623" remote="130144349400000000" />
 </dwsync>

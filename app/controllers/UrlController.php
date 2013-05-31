@@ -8,6 +8,7 @@ class UrlController extends \BaseController {
 	 * @return Response
 	 */
 	public function index()
+	
 	{
 		//
 	}

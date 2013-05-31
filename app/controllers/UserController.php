@@ -10,7 +10,8 @@ class UserController extends \BaseController {
 	public function index()
 	{
 		$users = Sentry::getUserProvider()->findAll();
-		print_r($users);
+		echo "user list";
+		//print_r($users);
 		
 	}
 

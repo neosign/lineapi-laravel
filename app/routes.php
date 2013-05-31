@@ -20,6 +20,13 @@ Route::get('/', function()
 Route::group(array('prefix' => 'api/v1'), function()
 {
     
-	Route::resource('users', 'UserController');
+	Route::resource('user', 'UserController');
+	Route::resource('friend', 'FriendController');
+	Route::resource('group', 'GroupController');
+	Route::resource('message', 'MessageController');
+	Route::resource('user.friend', 'FriendController');
+	Route::resource('user.message', 'MessageController');
+	Route::resource('group.user', 'UserController');
+	Route::resource('group.message', 'MessageController');
 	
 });
